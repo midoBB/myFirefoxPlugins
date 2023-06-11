@@ -60,6 +60,7 @@ in
       version = "0.0.1";
       addonId = "{d133e097-46d9-4ecc-9903-fa6a722a6e01}";
       url = "https://extension.7tv.gg/v3.0.7/ext.xpi";
+      sha256 = "cde47b3be2554ec2b3fdde094d85fe27fb0fb080cba3d8eca43bbe4b07f37d94";
       meta = with lib; {
         homepage = "https://7TV.gg";
         description = "7TV app";
